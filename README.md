@@ -10,7 +10,8 @@
   
 #### 역할분담
 
-<img width="829" alt="image" src="https://github.com/KDT5-OpenCV/KDT-5_OpneCVProject/assets/155441547/e7d9c33e-3502-48d8-ac9c-8632b66f6d48">
+<img width="863" alt="image" src="https://github.com/KDT5-OpenCV/KDT-5_OpneCVProject/assets/155441547/4c8d48f2-d218-4a80-a1bb-fd3f55df6b45">
+
 
 
 <details>
