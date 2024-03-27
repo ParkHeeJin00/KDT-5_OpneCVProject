@@ -1,4 +1,4 @@
-# KDT - 5 DeepLearnig Project
+# KDT - 5 OpenCV Project
 
 ## 견종 추정 서비스
 1. 사진 제출 : 개의 사진을 업로드
