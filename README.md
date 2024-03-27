@@ -23,7 +23,7 @@
 
 <details>
   <summary>
-    박희진(소형견 견종 분류 모델델)
+    박희진(소형견 견종 분류 모델)
   </summary>
 
 ### (1) 데이터 로딩 및 확인
@@ -152,5 +152,7 @@
 
 <details>
   <summary>
-    변주영(대형견 견종 분류 모델델)
+    변주영(대형견 견종 분류 모델)
   </summary>
+  fsdfsd
+</details>
