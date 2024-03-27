@@ -162,3 +162,4 @@ cython_debug/
 DATA/BIG/
 DATA/MID/
 DATA/SMALL/
+model/
