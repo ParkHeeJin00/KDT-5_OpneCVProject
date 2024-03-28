@@ -28,7 +28,6 @@
 
 # [ 견종 추정 서비스 ]
 
-https://github.com/ParkHeeJin00/KDT-5_OpneCVProject
 
 ## 소형견 분류 모델
 
