@@ -92,7 +92,8 @@ https://github.com/ParkHeeJin00/KDT-5_OpneCVProject
 
 ## (6) Custom CNN 모델 평가
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/245561cf-a444-45a1-8279-7e0b808fcd8e/Untitled.png)
+![image](https://github.com/KDT5-OpenCV/KDT-5_OpneCVProject/assets/155441547/1e51bce8-05bf-4022-834f-8247dc449e5c)
+
 
 - Train Loss : 감소
 - Valid Loss : 감소
@@ -115,7 +116,8 @@ https://github.com/ParkHeeJin00/KDT-5_OpneCVProject
 
 ## (8) Resnet18 모델 성능 평가
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/c19dc72a-3d43-4061-8eee-c886a3ffbb0f/3e174ada-7867-40c9-8a07-67216dddb898/Untitled.png)
+![image](https://github.com/KDT5-OpenCV/KDT-5_OpneCVProject/assets/155441547/b280e9b1-a6d4-416a-a1d2-80c401ee990f)
+
 
 - 과대적합이 일어나긴 했지만 test score가 0.81으로 Custom CNN 모델보다 0.3정도 높아졌다. 전이학습은 주로 데이터가 부족할 때 사용하는데, 전이학습을 했을때, 모델 성능이 이정도나 개선된 걸로 봐서는 이전 Custum CNN 모델의 문제점은 부족한 데이터셋이 맞는 것 같다.
 
